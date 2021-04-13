@@ -1,2 +1,2 @@
 # pwaedermarqueziot.github.io
-Pagina PWA e IoT
+Pagina PWA para controlar un dispositivo movil conectado mediante IoT
